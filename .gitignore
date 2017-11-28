@@ -1,0 +1,4 @@
+node_modules
+comment*.json
+issue*.json
+.idea
